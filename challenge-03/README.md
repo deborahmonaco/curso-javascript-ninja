@@ -24,7 +24,7 @@ var pessoa = {
 ... altura: 1.80,
 ... peso: 98,
 ... andando: false,
-... caminhouQuantosMetros: 0,
+... caminhouQuantosMetros: 0
 ... }
 
 /*
